@@ -1,6 +1,10 @@
 pr:
 - master
-- releases/*
+
+trigger:
+    branches:
+        include:
+            - master
 
 pool:
   vmImage: 'ubuntu-16.04'
