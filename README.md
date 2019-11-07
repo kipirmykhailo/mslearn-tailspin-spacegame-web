@@ -31,5 +31,4 @@ Microsoft and any contributors reserve all other rights, whether under their res
 or trademarks, whether by implication, estoppel or otherwise.
 
 
-LOREM IPSUM
-blabla
+[![Build Status](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_apis/build/status/kipirmykhailo.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/ITS2019-2020/Pipeline%20Test/_build/latest?definitionId=1&branchName=master)
